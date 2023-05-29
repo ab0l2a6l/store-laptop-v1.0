@@ -13,7 +13,7 @@ public class LaptopDAO implements InterfaceDAO {
         laptops.add(laptop);
     }
 
-    public List<Laptop> getLaptops(){
+    public List<Laptop> getLaptops() {
         return laptops;
     }
 
